@@ -1,0 +1,6 @@
+en:
+  bundle_name: 'Appcelerator Platform'
+  bundle_description: 'Support for Appcelerator Platform'
+  field_service: "Field Service"
+  field_service_description: "Field Service app for managing and tracking customer accounts."
+  
