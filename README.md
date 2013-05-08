@@ -1,0 +1,2 @@
+appc_mobile.ruble
+=================
